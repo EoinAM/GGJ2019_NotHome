@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 48eea4b202f77b444a30788964c065ed
+guid: a148fe3fdb53f504f98e4feae18584da
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -9,7 +9,12 @@ ModelImporter:
     3300000: //RootNode
     4300000: S_TurnTable_A01
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #64'
+    second: {fileID: 2100000, guid: c111eb3b3747e7c448dd6fc0f6936a84, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
