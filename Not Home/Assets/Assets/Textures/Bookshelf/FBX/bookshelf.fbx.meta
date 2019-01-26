@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9eb4d689eea78e54da10689d7d578cef
+guid: cec6aa19ab0cf884e9a0229df0fb7d8b
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
@@ -467,7 +467,22 @@ ModelImporter:
     4300174: Thck Hardcover Book Texture
     4300176: Thck Hardcover Book Texture.1
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase
+    second: {fileID: 2100000, guid: 19fa0f48a29c47e4bbf620561eedddc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Books
+    second: {fileID: 2100000, guid: 6a19a7188a98f5340aeed00e02ebea01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misc
+    second: {fileID: 2100000, guid: 1626b979954c9b246945385a8328dc8e, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

@@ -1,6 +1,5 @@
 fileFormatVersion: 2
-guid: 4acc9fdd66048cb4e96d08ca021d5f41
-timeCreated: 18446744011573954816
+guid: 4c9f19c2cd94e064381a549e79cb8e08
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}
@@ -44,8 +43,9 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
@@ -64,6 +64,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
